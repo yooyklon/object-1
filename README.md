@@ -1,1 +1,1 @@
-# object-1
+[![Build status](https://ci.appveyor.com/api/projects/status/4xfhymo5kts7v785?svg=true)](https://ci.appveyor.com/project/yooyklon/object-1)
